@@ -40,5 +40,3 @@ However, my current focus is to upskill in the area of full-stack development us
 
 ### Find me elsewhere :earth_africa:
 <a href="https://www.linkedin.com/in/jackdar">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-**[corriclabs.xyz](https://www.corriclabs.xyz)**
