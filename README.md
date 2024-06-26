@@ -23,13 +23,14 @@ __Auckland University of Technology__
 - [x] COMP607	Information Security Technologies
 - [x] COMP604	Operating Systems
 - [x] COMP602 Software Development Practice
-- [ ] COMP719	Applied Human Computer Interaction
-- [ ] COMP718	Information Security Management
-- [ ] COMP702	Research and Development Project Part 1
-- [ ] COMP721	Web Development
+- [x] COMP719	Applied Human Computer Interaction
+- [x] COMP718	Information Security Management
+- [x] COMP702	Research and Development Project Part 1
+- [x] COMP721	Web Development
 - [ ] COMP729	Enterprise Networks
 - [ ] COMP715	Network Security
 - [ ] COMP703	Research and Development Project Part 2
+- [ ] ENSE701	Contemporary Issues in Software Engineering
 
 ### What I'm focusing on :technologist:
 
