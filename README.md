@@ -1,43 +1,35 @@
 ### Hello! 👋
 
-I'm Jack, a 3rd year Computer Science student majoring in Software Development based in Auckland, New Zealand.\
-I'm currently trying to absorb as much knowledge as I can from as many different sources as possible. :book: :brain:
+I'm Jack, a Software Developer from Auckland, New Zealand.\
+I am currently working on my digital agency startup <a href="http://skylinedigital.co.nz">Skyline Digital</a>.
 
-I am also currently working as a freelance Web Developer for multiple clients and you can see my work at <a href="http://www.jackdarlington.com">jackdarlington.com</a>
+<br />
 
-### What I’m currently learning :book:
+### What I’m learning 📖
+- JavaScript/TypeScript, mainly through working with NodeJS and NextJS.
+- Golang to develop backend services and microservices.
+- Neovim using <a href="https://www.github.com/nvim-lua/kickstart.nvim">nvim-lua/kickstart.nvim</a> as a base configuration and developing my own <a href="https://www.github.com/jackdar/jack.nvim">configuration<a>.
+- Tmux to manage terminal panes and sessions.
 
-__Auckland University of Technology__
-- [x] COMP501 Computing Technology in Society
-- [x] MATH503 Mathematics for Computing
-- [x] COMP500	Programming Concepts and Techniques
-- [x] COMP508	Database System Design
-- [x] COMP507	IT Project Management
-- [x] COMP504	Networks and Internet
-- [x] COMP503	Programming 2
-- [x] ENEL611	Computer Network Applications
-- [x] COMP610	Data Structures and Algorithms 
-- [x] COMP609	Network and System Administration
-- [x] COMP603	Program Design and Construction
-- [x] COMP611	Algorithm Design and Analysis
-- [x] COMP607	Information Security Technologies
-- [x] COMP604	Operating Systems
-- [x] COMP602 Software Development Practice
-- [x] COMP719	Applied Human Computer Interaction
-- [x] COMP718	Information Security Management
-- [x] COMP702	Research and Development Project Part 1
-- [x] COMP721	Web Development
-- [ ] COMP729	Enterprise Networks
-- [ ] COMP715	Network Security
-- [ ] COMP703	Research and Development Project Part 2
-- [ ] ENSE701	Contemporary Issues in Software Engineering
+<br />
 
-### What I'm focusing on :technologist:
+### What I've been working on 💻
+- Bachelor of Computer and Information Sciences at Auckland University of Technology (AUT).
+- Software develoment placement building an aggregate banking web application using React and Cloudflare workers.
+- Building client websites collaborating on Figma and either Webflow or a stack based around NextJS.
+
+<br />
+
+### What I'm focusing on 🧑‍💻
 
 For the last two years I have focused mainly on learning and working with the C and Java programming languages.\
-At the end of last year I ended up working heavily with C# using it to develop a small <a href="https://www.github.com/PigTopia">2D multiplayer game in Unity</a>.
+At the end of 2023 I ended up working heavily with C# using it to develop a small <a href="https://www.github.com/PigTopia">2D multiplayer game in Unity</a>.
 
-However, my current focus is to upskill in the area of full-stack development using tools such as ReactJS, NodeJS, and JavaScript generally to be able to build modern web apps.
+However, my current focus is to upskill in the area of modern full-stack development using tools such as ReactJS, NodeJS, and JavaScript/TypeScript generally to be able to build web applications.
+
+I am also learning a new development environment which focuses on the use of tools such as <a href="https://www.github.com/jackdar/jack.nvim">Neovim</a> and Tmux.
+
+<br />
 
 ### Find me elsewhere :earth_africa:
 <a href="https://www.linkedin.com/in/jackdar">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
