@@ -6,7 +6,7 @@
 #### What I’m learning 📖
 - JavaScript/TypeScript, mainly through working with NodeJS, React, and NextJS.
 - Golang to develop backend services and microservices.
-- AWS, learning to self host without 
+- Homelab, Kubernetes, and AWS.
 - Neovim using <a href="https://www.github.com/nvim-lua/kickstart.nvim">nvim-lua/kickstart.nvim</a> as a base configuration and developing my own <a href="https://www.github.com/jackdar/jack.nvim">configuration<a>.
 - Tmux to manage terminal panes and sessions.
 
